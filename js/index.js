@@ -6,7 +6,7 @@ const input = document.querySelector(".search-form input");
 const msg = document.querySelector(".search-form .msg");
 const cards = document.querySelector(".weather-cards .row");
 
-const apiKey = "f9cf445fb7c539f3a2e1f59803463950";
+const apiKey = "#";
 
 form.addEventListener("submit", e => {
   e.preventDefault();
