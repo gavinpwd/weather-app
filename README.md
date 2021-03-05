@@ -45,4 +45,4 @@ Create a Mobile app version that can be downloaded via mobile app store
 
 **Here is a sample screenshot of the web app:**
 
-![ScreenShot](https://raw.github.com/gavinpwd/task-planner/master/weather-app-ss)
+![ScreenShot](/weather-app-ss)
